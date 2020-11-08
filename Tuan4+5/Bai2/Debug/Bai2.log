@@ -1,0 +1,8 @@
+﻿  Bai2.cpp
+  main02.cpp
+D:\Học\OOP\Bai_Tap_Thuc_Hanh_1-7\Tuan4+5\Bai2\main02.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+main02.obj : error LNK2005: "public: __thiscall DonThuc::DonThuc(float,float)" (??0DonThuc@@QAE@MM@Z) already defined in Bai2.obj
+main02.obj : error LNK2005: "public: __thiscall DonThuc::DonThuc(void)" (??0DonThuc@@QAE@XZ) already defined in Bai2.obj
+main02.obj : error LNK2005: "public: __thiscall DonThuc::~DonThuc(void)" (??1DonThuc@@QAE@XZ) already defined in Bai2.obj
+D:\Học\OOP\Bai_Tap_Thuc_Hanh_1-7\Tuan4+5\Debug\Bai2.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,5 @@
+﻿  Bai1.cpp
+  main01.cpp
+D:\Học\OOP\Bai_Tap_Thuc_Hanh_1-7\Tuan4+5\Bai1\main01.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Bai1.vcxproj -> D:\Học\OOP\Bai_Tap_Thuc_Hanh_1-7\Tuan4+5\Debug\Bai1.exe
